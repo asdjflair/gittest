@@ -18,10 +18,7 @@ public:
     {
         return age;
     }
-    int getno()
-    {
-        return no;
-    }
+
     void print()
     {
         cout<<name<<age<<no<<endl;
